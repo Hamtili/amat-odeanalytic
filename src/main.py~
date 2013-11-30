@@ -1,7 +1,7 @@
 '''
 Created on Nov 18, 2013
 
-@author: marc1
+@author: marc
 '''
 from numpy import matrix, set_printoptions
 from numpy.linalg import matrix_rank
